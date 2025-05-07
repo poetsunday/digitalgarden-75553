@@ -12,3 +12,6 @@ Stay tuned as I develop this site into something useful. I intend of adding my t
 I have embarked on a journey to learn as much as possible about Artificial Intelligence and its potential applications. My primary motivation stems from a desire to work smarter, not harder. I firmly believe that success and career advancement should not necessitate working 60 hours a week.
 I believe that many of the mundane daily tasks performed by technicians can be automated. I also believe that the majority of the emails I receive are non-essential. Many of my daily tasks could be completed, and possibly automated, by AI, with me overseeing the LLM's work to ensure it meets company standards.
 I believe that, instead of spending time fixing old and outdated systems, I should focus on learning about and implementing new technologies to enhance the company's profitability and simplify operations.
+
+## Posts
+[[Digital Garden Blog/Fabric\|Fabric]] 
