@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/digital-garden-blog/fabric/","tags":["Blog","ai","Fabric"],"created":"2025-05-06T22:29:45.252-03:00"}
 ---
 
-**Fabric: [[AI\|AI]] Augmentation Done Right**
+**Fabric: [[Digital Garden Blog/AI\|AI]] Augmentation Done Right**
 
 AI is the hot new thing, but most people are using it wrong. They think it's about replacing humans, but the real potential is in augmenting them. Fabric is an open-source AI tool that shows how this should be done.
 ![Pasted image 20250506225027.png](/img/user/Pasted%20image%2020250506225027.png)
-Fabric's goal is simple: to reduce the friction in using AI to solve problems. It's not just another AI; it's a framework for building AI-powered tools that make you better at what you do. Think of it as a way to create your own personal AI assistant, tailored to your specific needs.
+To get AI to work for you and do what you want it to do, you need to use prompts. The problem is, there are too many prompts. Fabric's goal is simple: to reduce the friction in using AI to solve problems. It's not just another AI; it's a framework for building AI-powered tools that make you better at what you do. Think of it as a way to create your own personal AI assistant, tailored to your specific needs. It helps categorize prompts 
 
 One of the key ideas behind Fabric is the use of "patterns." These are curated prompts that have been carefully designed to instruct AI for specific tasks. Instead of struggling to write the perfect prompt every time, you can use a pattern that's already been tested and refined. And because Fabric is open-source, these patterns are crowdsourced, meaning they're constantly being improved by the community.
 
