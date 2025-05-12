@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden-blog/fabric/","tags":["Blog","ai","Fabric"]}
 ---
 
+**2025/05/08**
 **Fabric: [[Digital Garden Blog/AI\|AI]] Augmentation Done Right**
 
 AI is the hot new thing, but most people are using it wrong. They think it's about replacing humans, but the real potential is in augmenting them. Fabric is an open-source AI tool that shows how this should be done.
