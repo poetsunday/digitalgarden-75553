@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-blog/ai/","tags":["Blog","ai","Fabric"],"created":"2025-05-06T20:10:59.097-03:00"}
+{"dg-publish":true,"permalink":"/digital-garden-blog/ai/","tags":["Blog","ai","Fabric"]}
 ---
 
 ![Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg](/img/user/Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-blog/fabric/","tags":["Blog","ai","Fabric"],"created":"2025-05-06T22:29:45.252-03:00"}
+{"dg-publish":true,"permalink":"/digital-garden-blog/fabric/","tags":["Blog","ai","Fabric"]}
 ---
 
 **Fabric: [[Digital Garden Blog/AI\|AI]] Augmentation Done Right**
