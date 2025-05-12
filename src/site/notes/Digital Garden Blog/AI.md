@@ -3,6 +3,8 @@
 ---
 
 ![Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg](/img/user/Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg)
+**2025/05/10**
+
 ### What is Artificial Intelligence?
 
 A more formal definition provided refers to AI as machine-based systems that, given human-defined objectives, can make predictions, recommendations, or decisions influencing real or virtual environments5. These systems interact with us and act on our environment, and can potentially appear to operate autonomously and adapt their behavior by learning about the context. This definition is broad enough to include data-driven techniques like artificial neural networks and deep learning, as well as rule-based or symbolic AI
