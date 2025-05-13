@@ -7,7 +7,6 @@
 **Welcome to my Digital garden!**
 As a technologist I am always looking for new ways to express my thoughts, write down what I am doing, and pass on some knowledge to someone else.
 
-![Pasted image 20250512063123.png](/img/user/Pasted%20image%2020250512063123.png)
 
 **Obsidian**
 To use [[Digital Garden Blog/AI\|AI]] to help you with learning you need to almost redefine how you take notes. AI likes documents in a text format, it is easier for them to read, enter Obsidian.
