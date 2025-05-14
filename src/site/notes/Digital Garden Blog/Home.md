@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-blog/home/","tags":["Blog","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden-blog/home/","tags":["Blog","ai","Fabric","gardenEntry"]}
 ---
 
+**2025-05-08**
 # Home
-![Pasted image 20250506193032.png](/img/user/Pasted%20image%2020250506193032.png)
+![Default_A_Cottage_that_is_crooked_with_yellow_siding_and_a_blu_0.jpg](/img/user/Default_A_Cottage_that_is_crooked_with_yellow_siding_and_a_blu_0.jpg)
 **Welcome to my Digital garden!**
 As a technologist I am always looking for new ways to express my thoughts, write down what I am doing, and pass on some knowledge to someone else.
 
@@ -27,6 +28,8 @@ I believe that many of the mundane daily tasks performed by technicians can be a
 I believe that, instead of spending time fixing old and outdated systems, I should focus on learning about and implementing new technologies to enhance the company's profitability and simplify operations.
 
 ## Posts
-[[Digital Garden Blog/Fabric\|Fabric]] 
-[[Digital Garden Blog/AI\|AI]] 
+[[Digital Garden Blog/Fabric\|Fabric]]
+[[Digital Garden Blog/AI\|AI]]
+[[Digital Garden Blog/Obsidian\|Obsidian]]
+
 
