@@ -6,7 +6,7 @@
 **Fabric: [[Digital Garden Blog/AI\|AI]] Augmentation Done Right**
 
 AI is the hot new thing, but most people are using it wrong. They think it's about replacing humans, but the real potential is in augmenting them. Fabric is an open-source AI tool that shows how this should be done.
-![Pasted image 20250506225027.png](/img/user/Pasted%20image%2020250506225027.png)
+![Pasted image 20250506225027.png](/img/user/_attachments/Pasted%20image%2020250506225027.png)
 To get AI to work for you and do what you want it to do, you need to use prompts. The problem is, there are too many prompts. Fabric's goal is simple: to reduce the friction in using AI to solve problems. It's not just another AI; it's a framework for building AI-powered tools that make you better at what you do. Think of it as a way to create your own personal AI assistant, tailored to your specific needs. It helps categorize prompts 
 
 One of the key ideas behind Fabric is the use of "patterns." These are curated prompts that have been carefully designed to instruct AI for specific tasks. Instead of struggling to write the perfect prompt every time, you can use a pattern that's already been tested and refined. And because Fabric is open-source, these patterns are crowdsourced, meaning they're constantly being improved by the community.
@@ -30,7 +30,7 @@ Fabric also incorporates the idea of a "context file," which lets you define you
 One of the most valuable things Fabric can do is help you determine what content requires deep engagement versus quick summarization. It's easy to get overwhelmed by the amount of information out there, but Fabric can help you filter out the noise and focus on what really matters. It can even save outputs directly to Obsidian, which is a popular note-taking application.
 
 The core philosophy behind Fabric is about human flourishing. It's about using AI to enhance human potential, not replace it. Fabric's patterns are the result of many iterations, delivering clean and precise results. Daniel Miessler left his job after seeing GPT-4 to focus on AI tools that augment human capabilities and solve real problems.
-![Pasted image 20250506225545.png](/img/user/Pasted%20image%2020250506225545.png)
+![Pasted image 20250506225545.png](/img/user/_attachments/Pasted%20image%2020250506225545.png)
 By using Fabric to determine what should be slowly watched and processed, you avoid "taking the weights out of the gym." Fabric can analyze personal journal entries to identify patterns and provide feedback on habits, such as reading or exercise. The "improve prompt" pattern allows you to refine and enhance your own prompts for more effective AI interactions.
 
 Fabric allows you to create custom patterns tailored to your specific needs, such as digesting sermons or analyzing personal data. It enables the creation of a second brain by saving and organizing insights from various sources into a personal knowledge base. The open-source and crowdsourced nature of Fabric's patterns ensures continuous improvement and adaptation to evolving needs.
