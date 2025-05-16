@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden-blog/ai/","tags":["Blog","ai","Fabric"]}
 ---
 
-![Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg](/img/user/_attachments/Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg)
+![Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg|center|1000](/img/user/_attachments/Leonardo_Lightning_XL_A_futuristic_highcontrast_photograph_dep_2.jpg)
 **2025/05/10**
 
 ### What is Artificial Intelligence?
