@@ -11,7 +11,8 @@ To get AI to work for you and do what you want it to do, you need to use prompts
 
 One of the key ideas behind Fabric is the use of "patterns." These are curated prompts that have been carefully designed to instruct AI for specific tasks. Instead of struggling to write the perfect prompt every time, you can use a pattern that's already been tested and refined. And because Fabric is open-source, these patterns are crowdsourced, meaning they're constantly being improved by the community.
 
-![[[Introducing Fabric — A Human AI Augmentation Framework](https://www.youtube.com/watch?v=wPEyyigh10g)]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wPEyyigh10g?si=tE7vNoBVDBdkjwwR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Fabric is also CLI native, which is a fancy way of saying it works in the command line. This might sound intimidating if you're not a programmer, but it's actually one of the things that makes Fabric so powerful. By using the command line, you can pipe commands into Fabric and get results back in seconds. No need to mess with clunky web interfaces. Of course, if you prefer, Fabric also supports voice and GUI access.
 
