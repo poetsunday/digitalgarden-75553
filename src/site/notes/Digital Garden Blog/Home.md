@@ -21,7 +21,7 @@ I believe that, instead of spending time fixing old and outdated systems, I shou
 **Emotional Intelligence**
 
 ## Posts
-[[Digital Garden Blog/Fabric\|Fabric]]
+[[Digital Garden Blog/Fabric\|Fabric]]                   [[Digital Garden Blog/7 EQ Exercises\|7 EQ Exercises]]
 [[Digital Garden Blog/AI\|AI]]
 [[Digital Garden Blog/Obsidian\|Obsidian]]
 

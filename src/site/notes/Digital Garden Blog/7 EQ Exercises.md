@@ -4,7 +4,7 @@
 
 **2025/05/16**
 
-![emotional-intelligence-thumbnail.jpg](/img/user/_attachments/emotional-intelligence-thumbnail.jpg)
+![emotional-intelligence-thumbnail.jpg|center|1500](/img/user/_attachments/emotional-intelligence-thumbnail.jpg)
 
 **7 Powerful Emotional Intelligence Development Exercises for everyone**
 
