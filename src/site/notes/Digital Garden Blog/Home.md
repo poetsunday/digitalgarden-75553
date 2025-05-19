@@ -2,13 +2,14 @@
 {"dg-publish":true,"permalink":"/digital-garden-blog/home/","tags":["Blog","ai","Fabric","gardenEntry"]}
 ---
 
-**2025-05-08**
+
 # Home
 ![Default_A_Cottage_that_is_crooked_with_yellow_siding_and_a_blu_0.jpg|center](/img/user/_attachments/Default_A_Cottage_that_is_crooked_with_yellow_siding_and_a_blu_0.jpg)
 **Welcome to my Digital garden!**
 As a technologist I am always looking for new ways to express my thoughts, write down what I am doing, and pass on some knowledge to someone else.
 
 
+{ .block-language-dataview}
 **[[Digital Garden Blog/Obsidian\|Obsidian]]**
 To use [[Digital Garden Blog/AI\|AI]] to help you with learning you need to almost redefine how you take notes. AI likes documents in a text format, it is easier for them to read, enter Obsidian.
 Obsidian is a powerful note-taking and knowledge management application built on the principles of Markdown...

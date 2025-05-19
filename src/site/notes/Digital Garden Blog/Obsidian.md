@@ -3,7 +3,6 @@
 ---
 
 
-**2025/05/12**
 **Obsidian**
 To use [[Digital Garden Blog/AI\|AI]] to help you with learning you need to almost redefine how you take notes. AI likes documents in a text format, it is easier for them to read, enter Obsidian.
 ![2023_Obsidian_logo.svg.png|center](/img/user/_attachments/2023_Obsidian_logo.svg.png)
