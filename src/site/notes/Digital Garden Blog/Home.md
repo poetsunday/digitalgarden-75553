@@ -10,7 +10,7 @@ As a technologist I am always looking for new ways to express my thoughts, write
 
 | Note Name                                                    | Last Updated            | Links |
 | ------------------------------------------------------------ | ----------------------- | ----- |
-| [[Digital Garden Blog/Home\|Home]]                        | 4:59 PM - May 19, 2025  | 0     |
+| [[Digital Garden Blog/Home\|Home]]                        | 6:31 PM - May 19, 2025  | 0     |
 | [[Digital Garden Blog/Daily Note/2025-05-19\|2025-05-19]] | 1:22 PM - May 19, 2025  | 0     |
 | [[Digital Garden Blog/Fabric\|Fabric]]                    | 10:15 AM - May 19, 2025 | 2     |
 | [[Digital Garden Blog/Obsidian\|Obsidian]]                | 10:14 AM - May 19, 2025 | 2     |
@@ -34,22 +34,15 @@ I believe that, instead of spending time fixing old and outdated systems, I shou
 **[[Digital Garden Blog/Fabric\|Fabric]]**
 I have been using Fabric as Augmentation to absorb data faster. YouTube is an awesome resource for learning, but it is very time consuming to go through all the data/Videos to find what I need to learn. [[Digital Garden Blog/Fabric\|Fabric]] creates prompts to have [[Digital Garden Blog/AI\|AI]] parse this data for you, and get you watching what you should be watching.
 
-
-
-<div class="row jusify-content-center">
-            <div class="col-12 narrow text-center">
+<center>
+<div class="col-12 narrow text-center">
             <div class="col-md-12">
-                <a href="https://www.facebook.com/poetsunday" target="_blank"><img src="_attachments/circle-facebook.png"></a>
-                <a href="https://twitter.com/poetsunday" target="_blank"><img src="_attachments/circle-twitter.png"></a>
-                <a href="https://www.linkedin.com/in/scott-anderson-4b2733137/" target="_blank"><img src="_attachments/circle-linkedin.png"></a>
+                <a href="https://www.facebook.com/poetsunday" target="_blank"><img src="img/circle-facebook.png"></a>
+                <a href="https://twitter.com/poetsunday" target="_blank"><img src="img/circle-twitter.png"></a>
+                <a href="https://www.linkedin.com/in/scott-anderson-4b2733137/" target="_blank"><img src="img/circle-linkedin.png"></a>
             <hr class="socket text-center">
             &copy; Poetsunday 2025
             </div>
             </div>
-            <!--<hr class="socket text-center">
-             &copy; Poetsunday 2025-->
-
-        </div>
-
-
+</center>
 
