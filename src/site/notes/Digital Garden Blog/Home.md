@@ -10,6 +10,7 @@ As a technologist I am always looking for new ways to express my thoughts, write
 
 | Note Name                                                    | Last Updated            | Links |
 | ------------------------------------------------------------ | ----------------------- | ----- |
+| [[Digital Garden Blog/Daily Note/2025-06-01\|2025-06-01]] | 3:34 PM - June 01, 2025 | 0     |
 | [[Digital Garden Blog/Home\|Home]]                        | 8:04 PM - May 19, 2025  | 0     |
 | [[Digital Garden Blog/Daily Note/2025-05-19\|2025-05-19]] | 1:22 PM - May 19, 2025  | 0     |
 | [[Digital Garden Blog/Fabric\|Fabric]]                    | 10:15 AM - May 19, 2025 | 2     |
@@ -19,7 +20,6 @@ As a technologist I am always looking for new ways to express my thoughts, write
 | [[Digital Garden Blog/AI\|AI]]                            | 7:26 AM - May 17, 2025  | 8     |
 | [[Digital Garden Blog/Daily Note/2025-05-12\|2025-05-12]] | 5:48 PM - May 12, 2025  | 0     |
 | [[Digital Garden Blog/Daily Note/2025-04-21\|2025-04-21]] | 9:03 PM - May 11, 2025  | 0     |
-| [[Digital Garden Blog/Daily Note/2025-05-11\|2025-05-11]] | 9:02 PM - May 11, 2025  | 0     |
 
 { .block-language-dataview}
 **[[Digital Garden Blog/Obsidian\|Obsidian]]**
