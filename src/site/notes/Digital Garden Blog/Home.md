@@ -8,18 +8,18 @@
 **Welcome to my Digital garden!**
 As a technologist I am always looking for new ways to express my thoughts, write down what I am doing, and pass on some knowledge to someone else.
 
-| Note Name                                                    | Last Updated            | Links |
-| ------------------------------------------------------------ | ----------------------- | ----- |
-| [[Digital Garden Blog/Daily Note/2025-05-21\|2025-05-21]] | 3:47 PM - June 01, 2025 | 0     |
-| [[Digital Garden Blog/Daily Note/2025-06-01\|2025-06-01]] | 3:34 PM - June 01, 2025 | 0     |
-| [[Digital Garden Blog/Home\|Home]]                        | 8:04 PM - May 19, 2025  | 0     |
-| [[Digital Garden Blog/Daily Note/2025-05-19\|2025-05-19]] | 1:22 PM - May 19, 2025  | 0     |
-| [[Digital Garden Blog/Fabric\|Fabric]]                    | 10:15 AM - May 19, 2025 | 2     |
-| [[Digital Garden Blog/Obsidian\|Obsidian]]                | 10:14 AM - May 19, 2025 | 2     |
-| [[Digital Garden Blog/7 EQ Exercises\|7 EQ Exercises]]    | 6:32 AM - May 19, 2025  | 1     |
-| [[Digital Garden Blog/Daily Note/2025-05-16\|2025-05-16]] | 7:55 AM - May 17, 2025  | 0     |
-| [[Digital Garden Blog/AI\|AI]]                            | 7:26 AM - May 17, 2025  | 8     |
-| [[Digital Garden Blog/Daily Note/2025-05-12\|2025-05-12]] | 5:48 PM - May 12, 2025  | 0     |
+| Note Name                                                         | Last Updated            | Links |
+| ----------------------------------------------------------------- | ----------------------- | ----- |
+| [[Digital Garden Blog/Daily Note/2025-05-11\|2025-05-11]]      | 5:15 AM - June 03, 2025 | 0     |
+| [[Digital Garden Blog/Human Augmentation\|Human Augmentation]] | 5:13 AM - June 03, 2025 | 1     |
+| [[Digital Garden Blog/Daily Note/2025-05-21\|2025-05-21]]      | 3:47 PM - June 01, 2025 | 0     |
+| [[Digital Garden Blog/Daily Note/2025-06-01\|2025-06-01]]      | 3:34 PM - June 01, 2025 | 0     |
+| [[Digital Garden Blog/Home\|Home]]                             | 8:04 PM - May 19, 2025  | 0     |
+| [[Digital Garden Blog/Daily Note/2025-05-19\|2025-05-19]]      | 1:22 PM - May 19, 2025  | 0     |
+| [[Digital Garden Blog/Fabric\|Fabric]]                         | 10:15 AM - May 19, 2025 | 2     |
+| [[Digital Garden Blog/Obsidian\|Obsidian]]                     | 10:14 AM - May 19, 2025 | 3     |
+| [[Digital Garden Blog/7 EQ Exercises\|7 EQ Exercises]]         | 6:32 AM - May 19, 2025  | 1     |
+| [[Digital Garden Blog/Daily Note/2025-05-16\|2025-05-16]]      | 7:55 AM - May 17, 2025  | 0     |
 
 { .block-language-dataview}
 **[[Digital Garden Blog/Obsidian\|Obsidian]]**
