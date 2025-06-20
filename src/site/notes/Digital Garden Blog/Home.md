@@ -8,18 +8,18 @@
 **Welcome to my Digital garden!**
 As a technologist I am always looking for new ways to express my thoughts, write down what I am doing, and pass on some knowledge to someone else.
 
-| Note Name                                                                   | Last Updated            | Links |
-| --------------------------------------------------------------------------- | ----------------------- | ----- |
-| [[Digital Garden Blog/Daily Note/2025-06-19\|2025-06-19]]                | 5:00 AM - June 20, 2025 | 0     |
-| [[Digital Garden Blog/Ticks - Defense against\|Ticks - Defense against]] | 7:14 AM - June 16, 2025 | 0     |
-| [[Digital Garden Blog/Home\|Home]]                                       | 5:36 AM - June 05, 2025 | 0     |
-| [[Digital Garden Blog/Daily Note/2025-06-04\|2025-06-04]]                | 5:30 AM - June 05, 2025 | 0     |
-| [[Digital Garden Blog/Daily Note/2025-05-21\|2025-05-21]]                | 7:26 AM - June 03, 2025 | 0     |
-| [[Digital Garden Blog/Daily Note/2025-05-11\|2025-05-11]]                | 5:15 AM - June 03, 2025 | 0     |
-| [[Digital Garden Blog/Human Augmentation\|Human Augmentation]]           | 5:13 AM - June 03, 2025 | 2     |
-| [[Digital Garden Blog/Daily Note/2025-06-01\|2025-06-01]]                | 3:34 PM - June 01, 2025 | 0     |
-| [[Digital Garden Blog/Daily Note/2025-05-19\|2025-05-19]]                | 1:22 PM - May 19, 2025  | 0     |
-| [[Digital Garden Blog/Fabric\|Fabric]]                                   | 10:15 AM - May 19, 2025 | 2     |
+| Note Name                                                                         | Last Updated            | Links |
+| --------------------------------------------------------------------------------- | ----------------------- | ----- |
+| [[Digital Garden Blog/Turning Ideas into Reality\|Turning Ideas into Reality]] | 5:32 PM - June 20, 2025 | 0     |
+| [[Digital Garden Blog/Daily Note/2025-06-19\|2025-06-19]]                      | 5:23 PM - June 20, 2025 | 0     |
+| [[Digital Garden Blog/Ticks - Defense against\|Ticks - Defense against]]       | 7:14 AM - June 16, 2025 | 0     |
+| [[Digital Garden Blog/Home\|Home]]                                             | 5:36 AM - June 05, 2025 | 0     |
+| [[Digital Garden Blog/Daily Note/2025-06-04\|2025-06-04]]                      | 5:30 AM - June 05, 2025 | 0     |
+| [[Digital Garden Blog/Daily Note/2025-05-21\|2025-05-21]]                      | 7:26 AM - June 03, 2025 | 0     |
+| [[Digital Garden Blog/Daily Note/2025-05-11\|2025-05-11]]                      | 5:15 AM - June 03, 2025 | 0     |
+| [[Digital Garden Blog/Human Augmentation\|Human Augmentation]]                 | 5:13 AM - June 03, 2025 | 2     |
+| [[Digital Garden Blog/Daily Note/2025-06-01\|2025-06-01]]                      | 3:34 PM - June 01, 2025 | 0     |
+| [[Digital Garden Blog/Daily Note/2025-05-19\|2025-05-19]]                      | 1:22 PM - May 19, 2025  | 0     |
 
 { .block-language-dataview}
 **[[Digital Garden Blog/Obsidian\|Obsidian]]**
